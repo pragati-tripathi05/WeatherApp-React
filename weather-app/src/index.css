@@ -67,12 +67,13 @@
   outline: none;
 }
 
-.section__inputs>button{
+#convert{
   padding: 10px 50px;
   border: none;
   border-radius: 0.4rem;
   font-size: 20px;
   font-weight: 500;
+  margin-left: 1rem;
   background-color: white;
 }
 
